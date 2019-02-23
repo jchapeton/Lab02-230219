@@ -1,0 +1,257 @@
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.dll.config
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.pdb
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Razor.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Razor.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.csproj.CopyComplete
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.pdb
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.dll.config
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.pdb
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.exe
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.exe.config
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.rsp
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.exe
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.exe.config
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.rsp
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.AppContext.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Console.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Compression.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.FileSystem.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Pipes.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.AccessControl.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Claims.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.ValueTuple.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XPath.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.exe
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.exe.config
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.rsp
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\VBCSCompiler.exe
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Antlr3.Runtime.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Newtonsoft.Json.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Helpers.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Mvc.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Optimization.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Razor.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Razor.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\WebGrease.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Helpers.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Mvc.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Optimization.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Razor.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Razor.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Newtonsoft.Json.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Antlr3.Runtime.pdb
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Helpers.resources.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Mvc.resources.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Optimization.resources.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Razor.resources.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.resources.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.csprojResolveAssemblyReference.cache
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.dll
+F:\CURSOS CIBERTEC\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.pdb
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.dll.config
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\App.UI.MVC.pdb
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.exe
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.exe.config
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csc.rsp
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.exe
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.exe.config
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\csi.rsp
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Console.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.exe
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.exe.config
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\vbc.rsp
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Helpers.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Mvc.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Optimization.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Razor.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\WebGrease.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Helpers.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Mvc.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Optimization.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.Razor.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.MVC\obj\Debug\App.UI.MVC.pdb

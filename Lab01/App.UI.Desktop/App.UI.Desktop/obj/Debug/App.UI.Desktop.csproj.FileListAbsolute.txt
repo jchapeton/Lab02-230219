@@ -1,0 +1,34 @@
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe.config
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.pdb
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Form1.resources
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Properties.Resources.resources
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.exe
+C:\Users\Administrador\Downloads\VISUAL STUDIO 2016 DEVELOPER\Alumno\Capítulo 1\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.pdb
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe.config
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.pdb
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Form1.resources
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Properties.Resources.resources
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.exe
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.pdb
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.Entities.dll
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.Entities.pdb
+C:\Users\Administrador\Desktop\ClaseAlumno\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CopyComplete
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe.config
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.exe
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.pdb
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.pdb
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.Entities.dll
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.Entities.pdb
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Form1.resources
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Properties.Resources.resources
+C:\Users\Cristal\Desktop\Lab01\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.GenerateResource.Cache
