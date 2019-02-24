@@ -1,0 +1,30 @@
+use ChinookSabado
+go
+select count(1) from dbo.Artist;
+go
+
+create procedure usp_GetArtists
+(
+@FiltroPorNombre NVarchar(120)
+)
+as
+begin
+	select a.ArtistId,a.Name from Artist a where a.Name Like @FiltroPorNombre;
+end;
+go
+
+
+create procedure usp_InsertArtist(
+@Nombre nvarchar(120)
+)
+as
+begin
+	insert into Artist(Name) values(@Nombre);
+	select SCOPE_IDENTITY();
+end;
+
+
+
+
+execute usp_InsertArtist 'Linkin Park'
+execute usp_GetArtists @FiltroPorNombre='A%';
