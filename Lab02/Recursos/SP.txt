@@ -28,3 +28,62 @@ end;
 
 execute usp_InsertArtist 'Linkin Park'
 execute usp_GetArtists @FiltroPorNombre='A%';
+
+
+--SP dbo.Genre
+
+--GET
+create procedure usp_GetGenres
+as
+begin
+	select  GenreId,Name from Genre:
+end;
+go
+
+--GET X Parametro
+create procedure usp_GetGenreXName
+(
+@FiltroPorNombre NVarchar(120)
+)
+as
+begin
+	select  GenreId,Name from Genre where Name Like @FiltroPorNombre;
+end;
+go
+
+
+--INSERT
+create procedure usp_InsertGenre(
+@Name varchar(120)
+)
+as
+begin
+	insert into dbo.Genre(Name) values(@Name);
+	select SCOPE_IDENTITY();
+end;
+go
+
+--Update
+create procedure usp_UpdateGenre(
+@GenreId int,
+@Name varchar(210)
+)
+as
+begin 
+	update dbo.Genre
+	set Name = @Name
+	where GenreId=@GenreId;
+	select @GenreId;
+end;
+go
+
+--Delete 
+create procedure usp_DeleteGenre(
+@GenreId int
+)
+as
+begin
+	delete from dbo.Genre
+	where GenreId=@GenreId;
+	select @GenreId;
+end;
