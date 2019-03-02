@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Transactions;
 
 namespace Chinook.Data
 {
@@ -80,7 +81,7 @@ namespace Chinook.Data
                 cmd.Connection = cn;
 
                 //Configurando los parámetros de la consulta SQL
-                cmd.Parameters.Add(new SqlParameter("@FiltroPorNombre",nombre));
+                cmd.Parameters.Add(new SqlParameter("@FiltroPorNombre", nombre));
 
                 //3. Ejecutamos el Comando
                 var reader = cmd.ExecuteReader();
@@ -139,7 +140,7 @@ namespace Chinook.Data
         {
             var result = 0;
             var sql = "usp_InsertArtist";
-            using (IDbConnection cn= new SqlConnection(GetConnection()))
+            using (IDbConnection cn = new SqlConnection(GetConnection()))
             {
                 cn.Open();
                 //2. Crear el Objeto Command
@@ -152,6 +153,80 @@ namespace Chinook.Data
                 //resultado
                 result = Convert.ToInt32(cmd.ExecuteScalar());
             }
+            return result;
+        }
+
+        public int InsertArtisttTX(Artist objArtista)
+        {
+            var result = 0;
+            var sql = "usp_InsertArtist";
+            using (IDbConnection cn = new SqlConnection(GetConnection()))
+            {
+                cn.Open();
+                //Inicinado la transacción local
+                var transaccion = cn.BeginTransaction();
+
+                try
+                {
+                    //2. Crear el Objeto Command
+
+                    IDbCommand cmd = new SqlCommand(sql);
+                    cmd.Transaction = transaccion;
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Connection = cn;
+                    //Agregando parametros
+                    cmd.Parameters.Add(new SqlParameter("@Nombre", objArtista.Name));
+
+                    //resultado
+                    result = Convert.ToInt32(cmd.ExecuteScalar());//Se bloquea la tabla Artist
+
+                    //throw new Exception("Error de transaccion");
+                    transaccion.Commit(); //se libera la tabla
+                }
+                catch (Exception ex)
+                {
+                    //Con el método rollback se deshace la transacción
+                    transaccion.Rollback();//se libera la tabla
+                }
+
+            }
+            return result;
+        }
+        public int InsertArtisttTXDist(Artist objArtista)
+        {
+            var result = 0;
+
+            //Con el objeto TransactionScope se inicia la transacción
+            using (var tx = new TransactionScope())
+            {
+                try
+                {
+                    var sql = "usp_InsertArtist";
+                    //1, Crea el objeto COnnection
+                    using (IDbConnection cn = new SqlConnection(GetConnection()))
+                    {
+                        cn.Open();
+                        //2. Crear el Objeto Command
+
+                        IDbCommand cmd = new SqlCommand(sql);
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Connection = cn;
+                        //Agregando parametros
+                        cmd.Parameters.Add(new SqlParameter("@Nombre", objArtista.Name));
+
+                        //resultado
+                        result = Convert.ToInt32(cmd.ExecuteScalar());//Se bloquea la tabla Artist
+                    }
+                    //Método COmplete se confirma la transaccion
+                    tx.Complete();//Se confirma la transacción
+                }
+                catch (Exception ex)
+                {
+                 //ya no va rollback, ya que si el complete no se ejecuta significa  que entrará al catch  
+                    throw new Exception(ex.Message);
+                }
+            }//Se libera la tabla cuando sale del USING
+
             return result;
         }
     }
