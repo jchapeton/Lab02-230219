@@ -70,7 +70,11 @@ namespace Chinook.Data
         public IEnumerable<Genre> GetsGenreWithParam(string nombre)
         {
             var result = new List<Genre>();
+<<<<<<< HEAD
             var sql = "select GenreId,Name from Genre Where Name Like @FiltroPorNombre";//evitar concatenar para los parametros para evtar SQL INJECTION
+=======
+            var sql = "select ArtistId,Name from Artist Where Name Like @FiltroPorNombre";//evitar concatenar para los parametros para evtar SQL INJECTION
+>>>>>>> fddf53407640d052e60a496adf0607cf1fadc0eb
             using (IDbConnection cn = new SqlConnection(GetConnection()))//Se usa el using para liberar el recurso
             {
                 cn.Open();
@@ -147,7 +151,11 @@ namespace Chinook.Data
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Connection = cn;
                 //Agregando parametros
+<<<<<<< HEAD
                 cmd.Parameters.Add(new SqlParameter("@Name", objGenre.Name));
+=======
+                cmd.Parameters.Add(new SqlParameter("@Nombre", objGenre.Name));
+>>>>>>> fddf53407640d052e60a496adf0607cf1fadc0eb
 
                 //resultado
                 result = Convert.ToInt32(cmd.ExecuteScalar());
@@ -176,7 +184,11 @@ namespace Chinook.Data
         public int DeleteGenre(Genre objGenre)
         {
             var result = 0;
+<<<<<<< HEAD
             var sql = "usp_DeleteGenre";
+=======
+            var sql = "usp_InsertGenre";
+>>>>>>> fddf53407640d052e60a496adf0607cf1fadc0eb
             using (IDbConnection cn = new SqlConnection(GetConnection()))
             {
                 cn.Open();

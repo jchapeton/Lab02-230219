@@ -59,7 +59,11 @@ namespace Chinook.Data.Test
             //Instanciamos del ArtistDA de la Capa Data
             var da = new GenreDA();
             var objGenre = new Genre();
+<<<<<<< HEAD
             objGenre.Name = "Amén2";
+=======
+            objGenre.Name = "Amén";
+>>>>>>> fddf53407640d052e60a496adf0607cf1fadc0eb
             int codParámetro = da.InsertGenre(objGenre);
 
             //validamos que la cantidad sea mayor a 0
@@ -71,8 +75,13 @@ namespace Chinook.Data.Test
             //Instanciamos del ArtistDA de la Capa Data
             var da = new GenreDA();
             var objGenre = new Genre();
+<<<<<<< HEAD
             objGenre.GenreId = 26;
             objGenre.Name = "Amén3";
+=======
+            objGenre.GenreId = 1;
+            objGenre.Name = "Amén";
+>>>>>>> fddf53407640d052e60a496adf0607cf1fadc0eb
             int codParámetro = da.UpdateGenre(objGenre);
 
             //validamos que la cantidad sea mayor a 0
@@ -84,7 +93,11 @@ namespace Chinook.Data.Test
             //Instanciamos del ArtistDA de la Capa Data
             var da = new GenreDA();
             var objGenre = new Genre();
+<<<<<<< HEAD
             objGenre.GenreId = 26;
+=======
+            objGenre.GenreId = 1;
+>>>>>>> fddf53407640d052e60a496adf0607cf1fadc0eb
             int codParámetro = da.DeleteGenre(objGenre);
 
             //validamos que la cantidad sea mayor a 0
