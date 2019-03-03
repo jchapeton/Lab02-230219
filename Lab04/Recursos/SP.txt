@@ -1,0 +1,28 @@
+select top 15 * from Artist --with(nolock) 
+order by ArtistId  desc
+go
+
+create procedure usp_UpdateArtist(
+@Nombre Nvarchar(120),
+@ID int,
+@Result bit output
+)
+as
+begin
+	Update Artist 
+	set Name=@Nombre
+	where ArtistId=@ID;
+
+	set @Result=1;
+end
+go
+
+
+create procedure usp_DeleteArtist(
+@ID int
+)
+as
+begin
+	delete from Artist where ArtistId=@ID;
+end
+

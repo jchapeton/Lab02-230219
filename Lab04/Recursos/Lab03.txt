@@ -1,0 +1,15 @@
+Definicion EF(ORM)Object Relation Model
+Enfoque Database First: Para empeazar a crear mi modelo de objetos, se parte de una BD, se pasa a crear Context and Entity Classes
+Enfoque Model FIrst: 
+Enfoque COde FIrst
+
+Linq Entities(EntityFramework)
+Linq Objects(in memory)  ejem: var total= DetalleFactura.Sum(item=>item.subtotal);
+linq Xml
+
+Linq Fluent Syntax ej: products.ToList();
+Linq Query Expresions  ej: from a in Products
+		           select a
+
+GUardar nombre del DATAMODEL con cnxAppDataModel
+Marcar el check de la opcion "Si, Incluir datos confidenciales en la cadena de conexión"

@@ -1,4 +1,2 @@
 Cambiar el ejemplo de dbo.Genre a Dapper
 Relizar dbo.Album Dapper
-
-

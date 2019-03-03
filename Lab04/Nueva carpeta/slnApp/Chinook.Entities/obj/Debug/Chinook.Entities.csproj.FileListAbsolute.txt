@@ -1,0 +1,10 @@
+C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Entities\bin\Debug\Chinook.Entities.dll
+C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Entities\bin\Debug\Chinook.Entities.pdb
+C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Entities\obj\Debug\Chinook.Entities.csproj.CoreCompileInputs.cache
+C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Entities\obj\Debug\Chinook.Entities.dll
+C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Entities\obj\Debug\Chinook.Entities.pdb
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Entities\bin\Debug\Chinook.Entities.dll
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Entities\bin\Debug\Chinook.Entities.pdb
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Entities\obj\Debug\Chinook.Entities.csproj.CoreCompileInputs.cache
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Entities\obj\Debug\Chinook.Entities.dll
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Entities\obj\Debug\Chinook.Entities.pdb
