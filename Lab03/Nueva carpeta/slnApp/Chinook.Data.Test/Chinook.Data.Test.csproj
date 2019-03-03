@@ -49,7 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArtistDATest.cs" />
+    <Compile Include="ArtistDapperDATest.cs" />
     <Compile Include="GenreDATest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

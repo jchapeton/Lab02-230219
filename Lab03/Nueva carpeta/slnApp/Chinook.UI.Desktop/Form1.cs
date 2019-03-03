@@ -21,7 +21,7 @@ namespace Chinook.UI.Desktop
 
         private void btnConsultar_Click(object sender, EventArgs e)
         {
-            var da = new ArtistDA();
+            var da = new ArtistDapeprDA();
 
             //Filtro
             string filtro = txtFiltroXNombre.Text;

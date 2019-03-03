@@ -70,7 +70,9 @@ namespace Chinook.Data
         public IEnumerable<Genre> GetsGenreWithParam(string nombre)
         {
             var result = new List<Genre>();
+
             var sql = "select GenreId,Name from Genre Where Name Like @FiltroPorNombre";//evitar concatenar para los parametros para evtar SQL INJECTION
+
             using (IDbConnection cn = new SqlConnection(GetConnection()))//Se usa el using para liberar el recurso
             {
                 cn.Open();
@@ -147,6 +149,7 @@ namespace Chinook.Data
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Connection = cn;
                 //Agregando parametros
+
                 cmd.Parameters.Add(new SqlParameter("@Name", objGenre.Name));
 
                 //resultado
@@ -176,7 +179,9 @@ namespace Chinook.Data
         public int DeleteGenre(Genre objGenre)
         {
             var result = 0;
+
             var sql = "usp_DeleteGenre";
+
             using (IDbConnection cn = new SqlConnection(GetConnection()))
             {
                 cn.Open();

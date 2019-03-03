@@ -1,89 +1,28 @@
-use ChinookSabado
-go
-select count(1) from dbo.Artist;
+select top 15 * from Artist --with(nolock) 
+order by ArtistId  desc
 go
 
-create procedure usp_GetArtists
-(
-@FiltroPorNombre NVarchar(120)
+create procedure usp_UpdateArtist(
+@Nombre Nvarchar(120),
+@ID int,
+@Result bit output
 )
 as
 begin
-	select a.ArtistId,a.Name from Artist a where a.Name Like @FiltroPorNombre;
-end;
+	Update Artist 
+	set Name=@Nombre
+	where ArtistId=@ID;
+
+	set @Result=1;
+end
 go
 
 
-create procedure usp_InsertArtist(
-@Nombre nvarchar(120)
+create procedure usp_DeleteArtist(
+@ID int
 )
 as
 begin
-	insert into Artist(Name) values(@Nombre);
-	select SCOPE_IDENTITY();
-end;
+	delete from Artist where ArtistId=@ID;
+end
 
-
-
-
-execute usp_InsertArtist 'Linkin Park'
-execute usp_GetArtists @FiltroPorNombre='A%';
-
-
---SP dbo.Genre
-
---GET
-create procedure usp_GetGenres
-as
-begin
-	select  GenreId,Name from Genre:
-end;
-go
-
---GET X Parametro
-create procedure usp_GetGenreXName
-(
-@FiltroPorNombre NVarchar(120)
-)
-as
-begin
-	select  GenreId,Name from Genre where Name Like @FiltroPorNombre;
-end;
-go
-
-
---INSERT
-create procedure usp_InsertGenre(
-@Name varchar(120)
-)
-as
-begin
-	insert into dbo.Genre(Name) values(@Name);
-	select SCOPE_IDENTITY();
-end;
-go
-
---Update
-create procedure usp_UpdateGenre(
-@GenreId int,
-@Name varchar(210)
-)
-as
-begin 
-	update dbo.Genre
-	set Name = @Name
-	where GenreId=@GenreId;
-	select @GenreId;
-end;
-go
-
---Delete 
-create procedure usp_DeleteGenre(
-@GenreId int
-)
-as
-begin
-	delete from dbo.Genre
-	where GenreId=@GenreId;
-	select @GenreId;
-end;

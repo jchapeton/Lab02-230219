@@ -12,7 +12,7 @@ namespace Chinook.UI.Web.Controllers
         // GET: Artist
         public ActionResult Index()
         {
-            var da =new ArtistDA();
+            var da =new ArtistDapeprDA();
             var model = da.GetsArtist();
             return View(model);
         }

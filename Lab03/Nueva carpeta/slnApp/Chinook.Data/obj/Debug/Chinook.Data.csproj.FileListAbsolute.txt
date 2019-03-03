@@ -7,3 +7,14 @@ C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Data\obj\Debug\Chinook.
 C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Chinook.Entities.dll
 C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Chinook.Entities.pdb
 C:\Lab02\Lab02-230219\Lab02\Nueva carpeta\slnApp\Chinook.Data\obj\Debug\Chinook.Data.csproj.CopyComplete
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Chinook.Data.dll
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Chinook.Data.pdb
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Chinook.Entities.dll
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Dapper.dll
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Chinook.Entities.pdb
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\bin\Debug\Dapper.xml
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\obj\Debug\Chinook.Data.csprojAssemblyReference.cache
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\obj\Debug\Chinook.Data.csproj.CoreCompileInputs.cache
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\obj\Debug\Chinook.Data.csproj.CopyComplete
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\obj\Debug\Chinook.Data.dll
+C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data\obj\Debug\Chinook.Data.pdb
