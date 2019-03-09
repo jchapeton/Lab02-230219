@@ -3,10 +3,13 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using Dapper;
+using System.Linq;
+using System.Transactions;
 
 namespace Chinook.Data
 {
-    public class GenreDA:BaseConnection
+    public class GenreDA : BaseConnection
     {
         public int GetCount()
         {
@@ -24,14 +27,17 @@ namespace Chinook.Data
 
             using (IDbConnection cn = new SqlConnection(GetConnection()))//Se usa el using para liberar el recurso
             {
-                cn.Open();
+                //cn.Open();
 
-                //2. Crear el objeto Command
-                IDbCommand cmd = new SqlCommand(sql);
-                cmd.Connection = cn;
+                ////2. Crear el objeto Command
+                //IDbCommand cmd = new SqlCommand(sql);
+                //cmd.Connection = cn;
 
-                //3. Ejecutamos el Comando
-                result = (int)cmd.ExecuteScalar();
+                ////3. Ejecutamos el Comando
+                //result = (int)cmd.ExecuteScalar();
+
+                //DAPPER
+                result = cn.Query<int>(sql).Single();
             }
 
             return result;
@@ -42,27 +48,30 @@ namespace Chinook.Data
             var sql = "select GenreId,Name from Genre";
             using (IDbConnection cn = new SqlConnection(GetConnection()))//Se usa el using para liberar el recurso
             {
-                cn.Open();
+                //cn.Open();
 
-                //2. Crear el objeto Command
-                IDbCommand cmd = new SqlCommand(sql);
-                cmd.Connection = cn;
+                ////2. Crear el objeto Command
+                //IDbCommand cmd = new SqlCommand(sql);
+                //cmd.Connection = cn;
 
-                //3. Ejecutamos el Comando
-                var reader = cmd.ExecuteReader();
-                var indice = 0;
-                while (reader.Read())
-                {
-                    var entity = new Genre();
-                    indice = reader.GetOrdinal("GenreId");
-                    entity.GenreId = reader.GetInt32(indice);
-                    //entity.ArtistId = Convert.ToInt32(reader["ArtistId"]);  No es una buena practica, ya que el convert cosume procesador
+                ////3. Ejecutamos el Comando
+                //var reader = cmd.ExecuteReader();
+                //var indice = 0;
+                //while (reader.Read())
+                //{
+                //    var entity = new Genre();
+                //    indice = reader.GetOrdinal("GenreId");
+                //    entity.GenreId = reader.GetInt32(indice);
+                //    //entity.ArtistId = Convert.ToInt32(reader["ArtistId"]);  No es una buena practica, ya que el convert cosume procesador
 
-                    indice = reader.GetOrdinal("Name");
-                    entity.Name = reader.GetString(indice);
+                //    indice = reader.GetOrdinal("Name");
+                //    entity.Name = reader.GetString(indice);
 
-                    result.Add(entity);
-                }
+                //    result.Add(entity);
+                //}
+
+                //DAPPER
+                result = cn.Query<Genre>(sql).ToList();
             }
             return result;
         }
@@ -75,30 +84,34 @@ namespace Chinook.Data
 
             using (IDbConnection cn = new SqlConnection(GetConnection()))//Se usa el using para liberar el recurso
             {
-                cn.Open();
+                //cn.Open();
 
-                //2. Crear el objeto Command
-                IDbCommand cmd = new SqlCommand(sql);
-                cmd.Connection = cn;
+                ////2. Crear el objeto Command
+                //IDbCommand cmd = new SqlCommand(sql);
+                //cmd.Connection = cn;
 
-                //Configurando los parámetros de la consulta SQL
-                cmd.Parameters.Add(new SqlParameter("@FiltroPorNombre", nombre));
+                ////Configurando los parámetros de la consulta SQL
+                //cmd.Parameters.Add(new SqlParameter("@FiltroPorNombre", nombre));
 
-                //3. Ejecutamos el Comando
-                var reader = cmd.ExecuteReader();
-                var indice = 0;
-                while (reader.Read())
-                {
-                    var entity = new Genre();
-                    indice = reader.GetOrdinal("GenreId");
-                    entity.GenreId = reader.GetInt32(indice);
-                    //entity.ArtistId = Convert.ToInt32(reader["ArtistId"]);  No es una buena practica, ya que el convert cosume procesador
+                ////3. Ejecutamos el Comando
+                //var reader = cmd.ExecuteReader();
+                //var indice = 0;
+                //while (reader.Read())
+                //{
+                //    var entity = new Genre();
+                //    indice = reader.GetOrdinal("GenreId");
+                //    entity.GenreId = reader.GetInt32(indice);
+                //    //entity.ArtistId = Convert.ToInt32(reader["ArtistId"]);  No es una buena practica, ya que el convert cosume procesador
 
-                    indice = reader.GetOrdinal("Name");
-                    entity.Name = reader.GetString(indice);
+                //    indice = reader.GetOrdinal("Name");
+                //    entity.Name = reader.GetString(indice);
 
-                    result.Add(entity);
-                }
+                //    result.Add(entity);
+                //}
+
+                //DAPPER
+                result = cn.Query<Genre>(sql,
+                                        new { FiltroPorNombre = nombre }).ToList();
             }
             return result;
         }
@@ -108,31 +121,34 @@ namespace Chinook.Data
             var sql = "usp_GetGenreXName";
             using (IDbConnection cn = new SqlConnection(GetConnection()))//Se usa el using para liberar el recurso
             {
-                cn.Open();
+                //cn.Open();
 
-                //2. Crear el objeto Command
-                IDbCommand cmd = new SqlCommand(sql);
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Connection = cn;
+                ////2. Crear el objeto Command
+                //IDbCommand cmd = new SqlCommand(sql);
+                //cmd.CommandType = CommandType.StoredProcedure;
+                //cmd.Connection = cn;
 
-                //Configurando los parámetros de la consulta SQL
-                cmd.Parameters.Add(new SqlParameter("@FiltroPorNombre", nombre));
+                ////Configurando los parámetros de la consulta SQL
+                //cmd.Parameters.Add(new SqlParameter("@FiltroPorNombre", nombre));
 
-                //3. Ejecutamos el Comando
-                var reader = cmd.ExecuteReader();
-                var indice = 0;
-                while (reader.Read())
-                {
-                    var entity = new Genre();
-                    indice = reader.GetOrdinal("GenreId");
-                    entity.GenreId = reader.GetInt32(indice);
-                    //entity.ArtistId = Convert.ToInt32(reader["ArtistId"]);  No es una buena practica, ya que el convert cosume procesador
+                ////3. Ejecutamos el Comando
+                //var reader = cmd.ExecuteReader();
+                //var indice = 0;
+                //while (reader.Read())
+                //{
+                //    var entity = new Genre();
+                //    indice = reader.GetOrdinal("GenreId");
+                //    entity.GenreId = reader.GetInt32(indice);
+                //    //entity.ArtistId = Convert.ToInt32(reader["ArtistId"]);  No es una buena practica, ya que el convert cosume procesador
 
-                    indice = reader.GetOrdinal("Name");
-                    entity.Name = reader.GetString(indice);
+                //    indice = reader.GetOrdinal("Name");
+                //    entity.Name = reader.GetString(indice);
 
-                    result.Add(entity);
-                }
+                //    result.Add(entity);
+                //}
+                //DAPPER
+                result = cn.Query<Genre>(sql,
+                                        new { FiltroPorNombre = nombre }, commandType: CommandType.StoredProcedure).ToList();
             }
             return result;
         }
@@ -143,17 +159,21 @@ namespace Chinook.Data
             var sql = "usp_InsertGenre";
             using (IDbConnection cn = new SqlConnection(GetConnection()))
             {
-                cn.Open();
-                //2. Crear el Objeto Command
-                IDbCommand cmd = new SqlCommand(sql);
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Connection = cn;
-                //Agregando parametros
+                //cn.Open();
+                ////2. Crear el Objeto Command
+                //IDbCommand cmd = new SqlCommand(sql);
+                //cmd.CommandType = CommandType.StoredProcedure;
+                //cmd.Connection = cn;
+                ////Agregando parametros
 
-                cmd.Parameters.Add(new SqlParameter("@Name", objGenre.Name));
+                //cmd.Parameters.Add(new SqlParameter("@Name", objGenre.Name));
 
-                //resultado
-                result = Convert.ToInt32(cmd.ExecuteScalar());
+                ////resultado
+                //result = Convert.ToInt32(cmd.ExecuteScalar());
+                //DAPPER
+                result = cn.Query<int>(sql,
+                                        new { Name = objGenre.Name }, commandType: CommandType.StoredProcedure).Single();
+
             }
             return result;
         }
@@ -163,16 +183,20 @@ namespace Chinook.Data
             var sql = "usp_UpdateGenre";
             using (IDbConnection cn = new SqlConnection(GetConnection()))
             {
-                cn.Open();
-                //2. Crear el Objeto Command
-                IDbCommand cmd = new SqlCommand(sql);
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Connection = cn;
-                //Agregando parametros
-                cmd.Parameters.Add(new SqlParameter("@GenreId", objGenre.GenreId));
-                cmd.Parameters.Add(new SqlParameter("@Name", objGenre.Name));
-                //resultado
-                result = Convert.ToInt32(cmd.ExecuteScalar());
+                //cn.Open();
+                ////2. Crear el Objeto Command
+                //IDbCommand cmd = new SqlCommand(sql);
+                //cmd.CommandType = CommandType.StoredProcedure;
+                //cmd.Connection = cn;
+                ////Agregando parametros
+                //cmd.Parameters.Add(new SqlParameter("@GenreId", objGenre.GenreId));
+                //cmd.Parameters.Add(new SqlParameter("@Name", objGenre.Name));
+                ////resultado
+                //result = Convert.ToInt32(cmd.ExecuteScalar());
+
+                //DAPPER
+                result = cn.Query<int>(sql,
+                                        new { GenreId = objGenre.GenreId, Name = objGenre.Name }, commandType: CommandType.StoredProcedure).Single();
             }
             return result;
         }
@@ -184,18 +208,80 @@ namespace Chinook.Data
 
             using (IDbConnection cn = new SqlConnection(GetConnection()))
             {
-                cn.Open();
-                //2. Crear el Objeto Command
-                IDbCommand cmd = new SqlCommand(sql);
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Connection = cn;
-                //Agregando parametros
-                cmd.Parameters.Add(new SqlParameter("@GenreId", objGenre.GenreId));
+                //cn.Open();
+                ////2. Crear el Objeto Command
+                //IDbCommand cmd = new SqlCommand(sql);
+                //cmd.CommandType = CommandType.StoredProcedure;
+                //cmd.Connection = cn;
+                ////Agregando parametros
+                //cmd.Parameters.Add(new SqlParameter("@GenreId", objGenre.GenreId));
 
-                //resultado
-                result = Convert.ToInt32(cmd.ExecuteScalar());
+                ////resultado
+                //result = Convert.ToInt32(cmd.ExecuteScalar());
+
+                //DAPPER
+                result = cn.Query<int>(sql,
+                                    new { GenreId = objGenre.GenreId }, commandType: CommandType.StoredProcedure).Single();
             }
             return result;
         }
+        #region transacciones
+        public int InsertGenreTX(Genre objGenre)
+        {
+            var result = 0;
+            var sql = "usp_InsertGenre";
+            using (IDbConnection cn = new SqlConnection(GetConnection()))
+            {
+                cn.Open();
+                var transaction = cn.BeginTransaction();
+
+                try
+                {
+                    result = cn.Query<int>(sql,
+                                          new { Name = objGenre.Name }, transaction: transaction, commandType: CommandType.StoredProcedure).Single();
+
+                    transaction.Commit();
+                }
+
+                catch (Exception ex)
+                {
+                    transaction.Rollback();
+                    throw new Exception(ex.Message);
+                }
+            }
+            return result;
+        }
+        public int InsertGenreTXDist(Genre objGenre)
+        {
+            var result = 0;
+            using (var tx = new TransactionScope())
+            {
+
+                var sql = "usp_InsertGenre";
+                using (IDbConnection cn = new SqlConnection(GetConnection()))
+                {
+                    cn.Open();
+                    var transaction = cn.BeginTransaction();
+
+                    try
+                    {
+                        result = cn.Query<int>(sql,
+                                              new { Name = objGenre.Name }, commandType: CommandType.StoredProcedure).Single();
+
+                        tx.Complete();
+                    }
+
+                    catch (Exception ex)
+                    {
+                        throw new Exception(ex.Message);
+                    }
+                }
+            }
+
+            return result;
+        }
+
+        #endregion
+
     }
 }
