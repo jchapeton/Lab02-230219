@@ -19,10 +19,19 @@ namespace Chinook.Data.EF.Repositories
         {
             return _context.Artist.Count();
         }
-
-        public IEnumerable<Artist> getAll()
+        public IEnumerable<Artist> getAll(string nombre)
         {
-            return _context.Artist.ToList();
+            IQueryable<Artist> query = _context.Artist;//Se recomienda declarar la query de tipo IQueryable cuando se haran validaciones de las querys
+            if (!string.IsNullOrEmpty(nombre))
+            {
+                query = query.Where(a => a.Name.Contains(nombre));
+            }
+            //ordenamiento
+            query = query.OrderBy(o => o.Name);
+
+            return query.ToList();
+
+            //return _context.Artist.ToList();
         }
 
         public IEnumerable<Artist> getAllXFiltro(string nombre)

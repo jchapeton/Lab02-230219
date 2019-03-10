@@ -21,7 +21,7 @@ namespace Chinoook.Data.EF.Test
         [TestMethod]
         public void GetAll()
         {
-            var listado = repository.getAll();
+            var listado = repository.getAll("");
             Assert.IsTrue(listado.Count() > 0);
         }
 

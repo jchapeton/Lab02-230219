@@ -15,3 +15,16 @@ Todo proyecto EF esta relaciona a un AppDataModel
 Error con driver de EF, installar por consola de nugget return    => Install-Package EntityFramework -version 6.2.0 , instalar
 en la capa que interactua con los datos y la capa que ejecute(web,desktop,Pruebas Unitarias)
 
+Deferred Execution vs Immediate Execution
+
+Puedes armar tu query y se ejecutara al hacerle un each, al iterar
+
+Cuadno tenga un .count() ejecutara el query
+
+
+
+Lazy Loading
+Cuando se hace una consulta trae la entidad con toda la data de otras entidades relacionadas. Eso genera mucho tiempo de ejecucion, se tiene q desabilitar ciertos configuraciones por defecto
+
+Eager Loading
+Se obliga con el INCLUDE para que fuerce a traer un objeto mas del cual esta relacionado

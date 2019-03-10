@@ -11,6 +11,15 @@ namespace Chinook.Data.EF
         public AppDataModel()
             : base("name=cnxAppDataModel")
         {
+
+            //Desabilitando el LazyLoading
+            this.Configuration.LazyLoadingEnabled = false;
+            //Desabilitando el proxy
+            this.Configuration.ProxyCreationEnabled = false;
+
+            this.Configuration.AutoDetectChangesEnabled = false;
+
+            this.Configuration.ValidateOnSaveEnabled = true;// si se pone en false no validará, por defecto es true
         }
 
         public virtual DbSet<Album> Album { get; set; }
