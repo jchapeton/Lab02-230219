@@ -1,0 +1,5 @@
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Entitites.Base\obj\Debug\Chinook.Entitites.Base.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Entitites.Base\bin\Debug\Chinook.Entitites.Base.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Entitites.Base\bin\Debug\Chinook.Entitites.Base.pdb
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Entitites.Base\obj\Debug\Chinook.Entitites.Base.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Entitites.Base\obj\Debug\Chinook.Entitites.Base.pdb

@@ -4,6 +4,7 @@ namespace Chinook.Data.EF
     using System.Data.Entity;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
+    using Chinook.Entitites.Base;
 
     public partial class AppDataModel : DbContext
     {
@@ -21,7 +22,6 @@ namespace Chinook.Data.EF
         public virtual DbSet<InvoiceLine> InvoiceLine { get; set; }
         public virtual DbSet<MediaType> MediaType { get; set; }
         public virtual DbSet<Playlist> Playlist { get; set; }
-        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
         public virtual DbSet<Track> Track { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

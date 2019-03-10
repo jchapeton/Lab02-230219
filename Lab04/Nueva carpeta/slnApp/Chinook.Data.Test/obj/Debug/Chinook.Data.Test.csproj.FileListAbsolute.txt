@@ -42,3 +42,31 @@ C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data.Test\obj\Debug\Chi
 C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data.Test\obj\Debug\Chinook.Data.Test.pdb
 C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Dapper.dll
 C:\Lab02\Lab02-230219\Lab03\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Dapper.xml
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Chinook.Data.Test.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Chinook.Data.Test.pdb
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Chinook.Data.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Chinook.Entities.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Dapper.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Chinook.Data.pdb
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Chinook.Entities.pdb
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Dapper.xml
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\obj\Debug\Chinook.Data.Test.csprojAssemblyReference.cache
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\obj\Debug\Chinook.Data.Test.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\obj\Debug\Chinook.Data.Test.csproj.CopyComplete
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\obj\Debug\Chinook.Data.Test.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\obj\Debug\Chinook.Data.Test.pdb
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\Chinook.Data.Test.dll.config
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\EntityFramework.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\EntityFramework.xml
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.Test\bin\Debug\EntityFramework.SqlServer.xml

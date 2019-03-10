@@ -1,0 +1,14 @@
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\obj\Debug\Chinook.Data.EF.csprojAssemblyReference.cache
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\obj\Debug\Chinook.Data.EF.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\Chinook.Data.EF.dll.config
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\Chinook.Data.EF.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\Chinook.Data.EF.pdb
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\Chinook.Entitites.Base.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\EntityFramework.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\Chinook.Entitites.Base.pdb
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\EntityFramework.xml
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\obj\Debug\Chinook.Data.EF.csproj.CopyComplete
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\obj\Debug\Chinook.Data.EF.dll
+C:\Nueva carpeta\Lab02-230219\Lab04\Nueva carpeta\slnApp\Chinook.Data.EF\obj\Debug\Chinook.Data.EF.pdb

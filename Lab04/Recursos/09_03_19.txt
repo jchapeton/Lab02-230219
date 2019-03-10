@@ -1,0 +1,17 @@
+
+Modificadores de alcance
+
+
+public public
+protected solo los hijos pueden tener acceso
+internal sollo accesible dentro de un proyecto
+
+DBContext es la clase que utiliza EF
+
+privare readonly, significa que solo es de lectura
+
+Todo proyecto EF esta relaciona a un AppDataModel
+
+Error con driver de EF, installar por consola de nugget return    => Install-Package EntityFramework -version 6.2.0 , instalar
+en la capa que interactua con los datos y la capa que ejecute(web,desktop,Pruebas Unitarias)
+
